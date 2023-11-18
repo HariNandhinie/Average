@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//Write a program to find the sum and average of given n numbers.
 public class sum_avg {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
